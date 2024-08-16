@@ -1,0 +1,5 @@
+POST /api/users: Create a new user.
+GET /api/users: Retrieve all users.
+GET /api/users/{id}: Retrieve a specific user by ID.
+PUT /api/users/{id}: Update an existing user.
+DELETE /api/users/{id}: Delete a specific user.
